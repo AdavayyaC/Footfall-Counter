@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.pth
+.DS_Store
+output_video.mp4
+*.mp4  # optional - you may choose to commit a very small sample only
