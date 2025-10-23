@@ -148,6 +148,5 @@ Output: output_footfall.mp4
  
 
 ---
-
-*Engineered for maximum clarity, adaptability, and demonstration value. Replace author and contact fields with your actual credentials prior to publishing or submission.*
+ 
 
