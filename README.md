@@ -76,22 +76,22 @@ pip install ultralytics opencv-python numpy
 
 ### Process Any Video
 ```bash
-python footfall_counter_basic.py --video path/to/video.mp4
+python footFallCounter.py.py --video path/to/video.mp4
 ```
 
 ### Use Webcam Stream
 ```bash
-python footfall_counter_basic.py --video 0
+python footFallCounter.py.py --video 0
 ```
 
 ### Move Counting Line (ROI, lower third)
 ```bash
-python footfall_counter_basic.py --video video.mp4 --roi 0.67
+python footFallCounter.py.py --video video.mp4 --roi 0.67
 ```
 
 ### Adjust Confidence Threshold
 ```bash
-python footfall_counter_basic.py --video video.mp4 --confidence 0.4
+python footFallCounter.py.py --video video.mp4 --confidence 0.4
 ```
 
 ---
